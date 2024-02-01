@@ -1,0 +1,15 @@
+h1{ 
+    background: -webkit-linear-gradient(46deg, rgb(10, 34, 49) 0%, rgba(17,99,135,1) 35%, rgb(8, 133, 201) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+h2{
+ color: rgb(8, 105, 185);
+}
+h3{
+ color: rgb(8, 105, 185);
+}
+h4{
+    color: rgb(8, 105, 185);
+}
