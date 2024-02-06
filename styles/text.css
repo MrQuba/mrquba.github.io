@@ -1,11 +1,11 @@
 h1{ 
-    background: -webkit-linear-gradient(46deg, rgb(10, 34, 49) 0%, rgba(17,99,135,1) 35%, rgb(8, 133, 201) 100%);
+    background: -webkit-linear-gradient(46deg, rgb(16, 50, 71) 0%, rgba(17,99,135,1) 35%, rgb(49, 110, 160) 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 h2{
- color: rgb(8, 105, 185);
+ color: rgb(49, 110, 160)
 }
 h3{
  color: rgb(8, 105, 185);
@@ -21,7 +21,7 @@ a {
     text-decoration: underline;
   }
   a:visited {
-    color: rgb(25, 71, 109);
+    color: rgb(49, 110, 160);
   }
   a:visited:hover {
     text-decoration: underline;
