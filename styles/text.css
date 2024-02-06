@@ -13,3 +13,16 @@ h3{
 h4{
     color: rgb(8, 105, 185);
 }
+a {
+    color: rgb(8, 105, 185);
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  a:visited {
+    color: rgb(25, 71, 109);
+  }
+  a:visited:hover {
+    text-decoration: underline;
+  }
