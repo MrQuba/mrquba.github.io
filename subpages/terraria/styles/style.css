@@ -1,0 +1,23 @@
+header.terraria{
+    display:flex; 
+    align-items: center;
+}
+div.terraria{
+    display:flex; 
+    align-items: center;
+}
+h2.terraria{
+    flex: 1;
+    text-align: center;
+    font-size: 250%;
+    color: rgb(0, 157, 255);
+}
+image.terraria{
+    flex: 1;
+    height: auto;
+}
+p.terraria{
+    flex: 1;
+    font-size: 175%;
+    color: rgb(0, 157, 255);
+}
