@@ -1,0 +1,13 @@
+.foot{
+    position: relative;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(79, 131, 96, 0.247);
+}
+.tables{
+    display:flex; 
+}

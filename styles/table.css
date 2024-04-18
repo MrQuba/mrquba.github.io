@@ -6,24 +6,7 @@ table, th, td, tr {
     background-color: rgba(0, 0, 0, 0.507);
   }
   table {
-    table-layout: fixed;
-    width: 50%;
-  }
-  
-  thead th:nth-child(1) {
-    width: 30%;
-  }
-  
-  thead th:nth-child(2) {
-    width: 20%;
-  }
-  
-  thead th:nth-child(3) {
-    width: 15%;
-  }
-  
-  thead th:nth-child(4) {
-    width: 35%;
+    flex: 1;
   }
   
   th,
